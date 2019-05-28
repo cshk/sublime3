@@ -3,7 +3,7 @@
 ## 离线包安装：
 
 下载7z包，解压缩
-将Package Control B 放到 sublime3--->Browser Packages
+将Package Control.sublime-package 放到 Sublime Text 3\Installed Packages下 重启sublime
 在sublime的Package Settings ---> Package Control ---> User 加入
 ```
 	"channels":
